@@ -1,2 +1,2 @@
 # trainRS  
-< https://zebnitskyMax.github.io/trainRS/cv>
+< https://zebnitskyMax.github.io/trainRS/CV>
